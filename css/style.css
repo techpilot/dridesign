@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: sans-serif;
+}
+#nav-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.navbar {
+  background-image: linear-gradient(to right, #191970, #191950);
+  padding: 0 !important;
+}
+.nav-brand img {
+  height: 40px;
+  padding-left: 20px;
+}
+.navbar-nav li {
+  padding: 0 10px;
+}
+.navbar-nav li a {
+  color: #ffff !important;
+  font-weight: 200;
+}
+.navbar-toggler {
+  outline: none !important;
+}
+.w3-paddingw3-xlargew3-teal {
+  height: 30px;
+  color: #ffff;
+}
+
+/*----------------banner section--------------*/
+#banner {
+  background-image: linear-gradient(to right, #191970, #191950);
+  color: #ffff;
+  padding-top: 5%;
+}
+
+.head p {
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 80px;
+}
+
+/*----------Sercvices section-------------*/
+#services {
+  padding: 80px 0;
+}
+
+.services-img {
+  width: 100%;
+  margin-top: 20%;
+}
+
+.services {
+  padding: 20px;
+}
+
+/* .services h3 {
+  padding: 5px;
+  margin-top: 25px;
+} */
+
+.button {
+  background-color: #0d29c5;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {
+  width: 300px;
+  background-color: #ced1df;
+}
+.button2 {
+  width: 300px;
+}
+.button3 {
+  width: 300px;
+}
+.button4 {
+  width: 300px;
+}
+.button5 {
+  width: 300px;
+}
